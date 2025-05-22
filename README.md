@@ -38,10 +38,10 @@ python grafik_analiz.py
 ## 📷 Örnek Çıktılar
 
 **Deneysel ve Teorik T(n) Grafiği**
-![Deneysel ve Teorik Tn](grafikler/Tn_grafik.jpeg)
+![Deneysel ve Teorik Tn](Tn_grafik.jpeg)
 
 **c Katsayıları ve Tablosu**
-![c Katsayıları](grafikler/c_grafik_ve_tablo.jpeg)
+![c Katsayıları](c_grafik_ve_tablo.jpeg)
 
 
 ## 📝 Not
